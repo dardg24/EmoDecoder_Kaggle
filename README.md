@@ -1,0 +1,2 @@
+# EmoDecoder_Kaggle
+THE LAST PROJECT BY THE TEAM ROCKET
